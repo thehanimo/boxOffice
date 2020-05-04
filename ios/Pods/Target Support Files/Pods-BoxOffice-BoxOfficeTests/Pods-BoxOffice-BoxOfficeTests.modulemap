@@ -1,0 +1,6 @@
+module Pods_BoxOffice_BoxOfficeTests {
+  umbrella header "Pods-BoxOffice-BoxOfficeTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
